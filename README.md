@@ -12,6 +12,8 @@ Databricks AI Security Framework [DASF](https://www.databricks.com/resources/whi
 
 HITRUST [AI Security Assessment](https://hitrustalliance.net/assessments-and-certifications/aisecurityassessment) The AI Security Assessment is designed to provide AI platform and service providers with relevant, prescriptive, and practical security controls and methodology to confidently adopt and secure AI technologies.
 
+[OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/) The OWASP Top 10 for Large Language Model Applications started in 2023 as a community-driven effort to highlight and address security issues specific to AI applications. 
+
 
 ## Standards
 
