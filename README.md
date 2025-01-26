@@ -22,6 +22,15 @@ HITRUST [AI Security Assessment](https://hitrustalliance.net/assessments-and-cer
 
 ## Reglulation
 
+
 ## Books
+
+[Not with a Bug, But with A Sticker](https://www.wiley.com/en-us/Not+with+a+Bug%2C+But+with+a+Sticker%3A+Attacks+on+Machine+Learning+Systems+and+What+To+Do+About+Them-p-9781119883999)
+
+[Adversarial AI Attacks, Mitigations, and Defense Strategies](https://www.packtpub.com/en-au/product/adversarial-ai-attacks-mitigations-and-defense-strategies-9781835088678?srsltid=AfmBOoqCrkIs2JWvcMSjdAV3nSLcxlUgr9iUnZrjRl7tjxiOZ3y6FJwU)
+
+[Co-Intelligence: Living and Working with AI](https://www.penguinrandomhouse.com/books/741805/co-intelligence-by-ethan-mollick/)
+
+[AI Act Compact](https://books.google.com.au/books/about/AI_Act_compact.html?id=EK04EQAAQBAJ&redir_esc=y)
 
 
