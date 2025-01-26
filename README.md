@@ -14,6 +14,7 @@ HITRUST [AI Security Assessment](https://hitrustalliance.net/assessments-and-cer
 
 [OWASP Top 10 for LLM Applications 2025](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/) The OWASP Top 10 for Large Language Model Applications started in 2023 as a community-driven effort to highlight and address security issues specific to AI applications. 
 
+[MITRE ATLAS](https://atlas.mitre.org/) ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems) is a globally accessible, living knowledge base of adversary tactics and techniques against Al-enabled systems based on real-world attack observations and realistic demonstrations from Al red teams and security groups.
 
 ## Standards
 
