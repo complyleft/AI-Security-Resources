@@ -22,6 +22,9 @@ HITRUST [AI Security Assessment](https://hitrustalliance.net/assessments-and-cer
 
 ## Reglulation
 
+[EU AI Act](https://artificialintelligenceact.eu/) The EU Artificial Intelligence Act
+
+[Australian Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard) | [10 Voluntary Guardrails](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails)
 
 ## Books
 
