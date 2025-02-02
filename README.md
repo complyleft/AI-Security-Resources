@@ -8,7 +8,7 @@ With the increasing use of AI in critical domains, the risks associated with adv
 
 ## AI Red Teaming - Adversarial testing tools
 
-[Python Risk Indentification for Generative AI - PyRIT!](https://azure.github.io/PyRIT/) PyRIT is an open-source framework developed by [Microsoft's AI Red Team](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/) to be a flexible and extensible tool that can be used to orchestrate an observe the security and safety vulnerabilities of generative AI systems in a variety of ways.
+* [Python Risk Indentification for Generative AI - PyRIT!](https://azure.github.io/PyRIT/) PyRIT is an open-source framework developed by [Microsoft's AI Red Team](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/) to be a flexible and extensible tool that can be used to orchestrate an observe the security and safety vulnerabilities of generative AI systems in a variety of ways.
 [PyRIT GitHub repo](https://github.com/Azure/PyRIT)
 
 [AttackText](https://textattack.readthedocs.io/en/master/) is a Python framework for adversarial attacks, adversarial training, and data augmentation in Natural Language Proccessing. TextAttack makes experimenting with the robustness of Natural Language Proccessing models seamless, fast, and easy. It’s also useful for Natural Language Proccessing model training, adversarial training, adversarial testing with prompt engineering, and data augmentation.
