@@ -29,9 +29,9 @@ With the increasing use of AI in critical domains, the risks associated with adv
 
 ## Reglulation
 
-* [EU AI Act](https://artificialintelligenceact.eu/) The EU Artificial Intelligence Act
+* [Australian Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard) The Australian Voluntary AI Safety Standard helps Australian organisations develop and deploy AI systems safely and reliably | This Standard includen 10 voluntary AI guardrails and how to use them [10 Voluntary Guardrails](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails)
 
-* [Australian Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard) | [10 Voluntary Guardrails](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails)
+* [EU AI Act](https://artificialintelligenceact.eu/) The EU Artificial Intelligence Act
 
 ## Books
 
