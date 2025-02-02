@@ -6,6 +6,13 @@ With the increasing use of AI in critical domains, the risks associated with adv
 
 > **Note**: Contributions to this repository are not accepted. Please feel free to fork it if you'd like to create your own version.
 
+## AI Red Teaming - Adversarial testing tools
+
+[Python Risk Indentification for Generative AI - PyRIT!](https://azure.github.io/PyRIT/) PyRIT is an open-source framework developed by [Microsoft's AI Red Team](https://www.microsoft.com/en-us/security/blog/2024/02/22/announcing-microsofts-open-automation-framework-to-red-team-generative-ai-systems/) to be a flexible and extensible tool that can be used to orchestrate an observe the security and safety vulnerabilities of generative AI systems in a variety of ways.
+[PyRIT GitHub repo](https://github.com/Azure/PyRIT)
+
+[AttackText](https://textattack.readthedocs.io/en/master/) is a Python framework for adversarial attacks, adversarial training, and data augmentation in Natural Language Proccessing. TextAttack makes experimenting with the robustness of Natural Language Proccessing models seamless, fast, and easy. It’s also useful for Natural Language Proccessing model training, adversarial training, adversarial testing with prompt engineering, and data augmentation.
+
 ## Frameworks
 
 Databricks AI Security Framework [DASF](https://www.databricks.com/resources/whitepaper/databricks-ai-security-framework-dasf) The Databricks AI Security Framework is designed to help you create an end-to-end risk profile for your organization’s AI deployment needs.
