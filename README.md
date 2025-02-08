@@ -23,11 +23,11 @@ With the increasing use of AI in critical domains, the risks associated with adv
 
 * [MITRE ATLAS](https://atlas.mitre.org/) | ATLAS (Adversarial Threat Landscape for Artificial-Intelligence Systems) is a globally accessible, living knowledge base of adversary tactics and techniques against Al-enabled systems based on real-world attack observations and realistic demonstrations from Al red teams and security groups.
 
-## Standards
+## Standards and Publications
 
 * [ISO/IEC 42001:2023 Artificial Intelligence Management System](https://www.iso.org/standard/81230.html) | ISO/IEC 42001 is an international standard that specifies requirements for establishing, implementing, maintaining, and continually improving an Artificial Intelligence Management System (AIMS) within organizations.
 
-* [ISO/IEC 22989:2022 Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html) | ISO/IEC 22989 is an international standard that establishes terminology for AI and describes concepts in the field of AI. This document can be used in the development of other standards and in support of communications among diverse, interested parties or stakeholders.
+* [ISO/IEC 22989:2022 Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html) | ISO/IEC 22989 is a publication that establishes terminology for AI and describes concepts in the field of AI. This document can be used in the development of other standards and in support of communications among diverse, interested parties or stakeholders.
 
 ## Reglulation
 
