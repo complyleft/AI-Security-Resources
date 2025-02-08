@@ -27,6 +27,8 @@ With the increasing use of AI in critical domains, the risks associated with adv
 
 * [ISO/IEC 42001:2023 Artificial Intelligence Management System](https://www.iso.org/standard/81230.html) | ISO/IEC 42001 is an international standard that specifies requirements for establishing, implementing, maintaining, and continually improving an Artificial Intelligence Management System (AIMS) within organizations.
 
+* [ISO/IEC 22989:2022 Artificial intelligence concepts and terminology](https://www.iso.org/standard/74296.html) | ISO/IEC 22989 is an international standard that establishes terminology for AI and describes concepts in the field of AI. This document can be used in the development of other standards and in support of communications among diverse, interested parties or stakeholders.
+
 ## Reglulation
 
 * [Australian Voluntary AI Safety Standard](https://www.industry.gov.au/publications/voluntary-ai-safety-standard) | The Australian Voluntary AI Safety Standard helps Australian organisations develop and deploy AI systems safely and reliably | This Standard includen 10 voluntary AI guardrails and how to use them | [10 Voluntary Guardrails](https://www.industry.gov.au/publications/voluntary-ai-safety-standard/10-guardrails)
